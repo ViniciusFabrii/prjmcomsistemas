@@ -1,0 +1,11 @@
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\bin\Debug\MCOM SISTEMAS.exe.config
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\bin\Debug\MCOM SISTEMAS.exe
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\bin\Debug\MCOM SISTEMAS.pdb
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM SISTEMAS.csproj.AssemblyReference.cache
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM_SISTEMAS.Form1.resources
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM_SISTEMAS.Properties.Resources.resources
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM SISTEMAS.csproj.GenerateResource.cache
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM SISTEMAS.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM SISTEMAS.exe
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM SISTEMAS.pdb
+C:\Users\vinicius.santos\source\repos\MCOM SISTEMAS\MCOM SISTEMAS\obj\Debug\MCOM_SISTEMAS.frmClientes.resources
